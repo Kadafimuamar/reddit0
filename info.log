@@ -1,0 +1,105 @@
+2024-06-08 12:53:31,386 INFO <module>(15) config root: /Users/dapi/-reddit-karma-farming-bot/src/config
+2024-06-08 12:53:31,387 INFO <module>(16) repo root: /Users/dapi/-reddit-karma-farming-bot
+2024-06-08 12:53:31,387 INFO <module>(17) src root: /Users/dapi/-reddit-karma-farming-bot/src
+2024-06-08 12:53:32,268 INFO prefer_envar(25) loading bot_reddit_client_id from envar. Value: lTOK469a86Km6vM_OeuDoA
+2024-06-08 12:53:32,268 INFO prefer_envar(25) loading bot_reddit_client_secret from envar. Value: e4xpRrIGPBi7Ka9wIe0PLwz3qXEphg
+2024-06-08 12:53:32,268 INFO prefer_envar(25) loading bot_reddit_username from envar. Value: Select-Astronomer-20
+2024-06-08 12:53:32,268 INFO prefer_envar(25) loading bot_reddit_password from envar. Value: M@kansomay1
+2024-06-08 12:53:32,269 INFO <module>(25) REDDIT AUTH CONFIG:
+ {
+  "reddit_client_id": "lTOK469a86Km6vM_OeuDoA",
+  "reddit_client_secret": "e4xpRrIGPBi7Ka9wIe0PLwz3qXEphg",
+  "reddit_password": "M@kansomay1",
+  "reddit_username": "Select-Astronomer-20"
+}
+2024-06-08 12:53:32,269 INFO <module>(66) REDDIT CONNFIG:
+ {
+  "reddit_comment_chance": 0.005,
+  "reddit_comment_karma_limit": null,
+  "reddit_crosspost_enabled": false,
+  "reddit_karma_limit_check": 0.002,
+  "reddit_low_score_threshold": 0,
+  "reddit_post_chance": 0.005,
+  "reddit_post_karma_limit": null,
+  "reddit_remove_low_scores": 0.002,
+  "reddit_reply_to_comment": 0.002,
+  "reddit_shadowban_check": 0.002,
+  "reddit_sleep_schedule": [
+    2,
+    4
+  ],
+  "reddit_sub_list": []
+}
+2024-06-08 12:53:50,578 INFO <module>(15) config root: /Users/dapi/-reddit-karma-farming-bot/src/config
+2024-06-08 12:53:50,578 INFO <module>(16) repo root: /Users/dapi/-reddit-karma-farming-bot
+2024-06-08 12:53:50,578 INFO <module>(17) src root: /Users/dapi/-reddit-karma-farming-bot/src
+2024-06-08 12:54:22,171 INFO <module>(15) config root: /Users/dapi/-reddit-karma-farming-bot/src/config
+2024-06-08 12:54:22,172 INFO <module>(16) repo root: /Users/dapi/-reddit-karma-farming-bot
+2024-06-08 12:54:22,172 INFO <module>(17) src root: /Users/dapi/-reddit-karma-farming-bot/src
+2024-06-08 12:54:50,391 INFO <module>(15) config root: /Users/dapi/-reddit-karma-farming-bot/src/config
+2024-06-08 12:54:50,391 INFO <module>(16) repo root: /Users/dapi/-reddit-karma-farming-bot
+2024-06-08 12:54:50,391 INFO <module>(17) src root: /Users/dapi/-reddit-karma-farming-bot/src
+2024-06-08 12:56:12,529 INFO <module>(15) config root: /Users/dapi/-reddit-karma-farming-bot/src/config
+2024-06-08 12:56:12,529 INFO <module>(16) repo root: /Users/dapi/-reddit-karma-farming-bot
+2024-06-08 12:56:12,529 INFO <module>(17) src root: /Users/dapi/-reddit-karma-farming-bot/src
+2024-06-08 12:56:14,002 INFO prefer_envar(25) loading bot_reddit_client_id from envar. Value: lTOK469a86Km6vM_OeuDoA
+2024-06-08 12:56:14,002 INFO prefer_envar(25) loading bot_reddit_client_secret from envar. Value: e4xpRrIGPBi7Ka9wIe0PLwz3qXEphg
+2024-06-08 12:56:14,003 INFO prefer_envar(25) loading bot_reddit_username from envar. Value: Select-Astronomer-20
+2024-06-08 12:56:14,003 INFO prefer_envar(25) loading bot_reddit_password from envar. Value: M@kansomay1
+2024-06-08 12:56:14,004 INFO <module>(25) REDDIT AUTH CONFIG:
+ {
+  "reddit_client_id": "lTOK469a86Km6vM_OeuDoA",
+  "reddit_client_secret": "e4xpRrIGPBi7Ka9wIe0PLwz3qXEphg",
+  "reddit_password": "M@kansomay1",
+  "reddit_username": "Select-Astronomer-20"
+}
+2024-06-08 12:56:14,005 INFO <module>(66) REDDIT CONNFIG:
+ {
+  "reddit_comment_chance": 0.005,
+  "reddit_comment_karma_limit": null,
+  "reddit_crosspost_enabled": false,
+  "reddit_karma_limit_check": 0.002,
+  "reddit_low_score_threshold": 0,
+  "reddit_post_chance": 0.005,
+  "reddit_post_karma_limit": null,
+  "reddit_remove_low_scores": 0.002,
+  "reddit_reply_to_comment": 0.002,
+  "reddit_shadowban_check": 0.002,
+  "reddit_sleep_schedule": [
+    2,
+    4
+  ],
+  "reddit_sub_list": []
+}
+2024-06-08 13:01:31,779 INFO <module>(15) config root: /Users/dapi/-reddit-karma-farming-bot/src/config
+2024-06-08 13:01:31,780 INFO <module>(16) repo root: /Users/dapi/-reddit-karma-farming-bot
+2024-06-08 13:01:31,780 INFO <module>(17) src root: /Users/dapi/-reddit-karma-farming-bot/src
+2024-06-08 13:01:32,386 INFO prefer_envar(25) loading bot_reddit_client_id from envar. Value: lTOK469a86Km6vM_OeuDoA
+2024-06-08 13:01:32,387 INFO prefer_envar(25) loading bot_reddit_client_secret from envar. Value: e4xpRrIGPBi7Ka9wIe0PLwz3qXEphg
+2024-06-08 13:01:32,387 INFO prefer_envar(25) loading bot_reddit_username from envar. Value: Select-Astronomer-20
+2024-06-08 13:01:32,387 INFO prefer_envar(25) loading bot_reddit_password from envar. Value: M@kansomay1
+2024-06-08 13:01:32,387 INFO <module>(25) REDDIT AUTH CONFIG:
+ {
+  "reddit_client_id": "lTOK469a86Km6vM_OeuDoA",
+  "reddit_client_secret": "e4xpRrIGPBi7Ka9wIe0PLwz3qXEphg",
+  "reddit_password": "M@kansomay1",
+  "reddit_username": "Select-Astronomer-20"
+}
+2024-06-08 13:01:32,388 INFO <module>(66) REDDIT CONNFIG:
+ {
+  "reddit_comment_chance": 0.005,
+  "reddit_comment_karma_limit": null,
+  "reddit_crosspost_enabled": false,
+  "reddit_karma_limit_check": 0.002,
+  "reddit_low_score_threshold": 0,
+  "reddit_post_chance": 0.005,
+  "reddit_post_karma_limit": null,
+  "reddit_remove_low_scores": 0.002,
+  "reddit_reply_to_comment": 0.002,
+  "reddit_shadowban_check": 0.002,
+  "reddit_sleep_schedule": [
+    2,
+    4
+  ],
+  "reddit_sub_list": []
+}
